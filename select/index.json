@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "トレードオフ",
+  "base_artist": "棗いつき",
+  "createdAt": "2025-12-05T10:43:36.914539Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "トレードオフ",
+      "artist": "棗いつき",
+      "has_synced": true,
+      "path": "select/01_トレードオフ_棗いつき.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "トレードオフ",
+      "artist": "棗いつき",
+      "has_synced": false,
+      "path": "select/pl_01_トレードオフ_棗いつき.txt"
+    }
+  ]
+}
